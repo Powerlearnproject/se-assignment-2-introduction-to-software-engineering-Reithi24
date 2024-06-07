@@ -48,7 +48,7 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
    
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
    
-   Compare and contrast the Agile and Waterfall models of software development
+Compare and contrast the Agile and Waterfall models of software development
 Agile vs. Waterfall Models:
 AGILE MODEL:It is iterative and incremental,it focus on long term approach.
 WATERFALL MODEL:It is Non iteractive and its best on short term approach.it follows downward.
@@ -67,8 +67,19 @@ AGILE MODEL
    
  in what scenarios might each be preferred?
   WATERFALL MODEL
-1.The project has a fixed budget, timeline and scope.
-2. Requirement well
+Regulated Industries.
+1. industries like finance and healthcare which has a strict regulatory compliance requirements.
+   -They prefer waterfall because it facilitates thorough documentation and a structured approach to ensure compliance.
+2. Small Projects with fixed Scope and Requirements.
+   -These is because there's less need for flexibility and intertive development.
+   AGILE MODEL
+1. Software Development
+   -Agile is highly favored in software development due to its iterative nature.
+2. Digital Marketing Campaigns
+   -Agile is well suited for managing digital marketing campaigns,
+    where strategies may need to be adjusted frequently based on real time data and market trends to optimize.
+   
+   
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
