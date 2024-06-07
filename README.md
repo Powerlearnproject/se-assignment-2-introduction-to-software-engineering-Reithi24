@@ -131,8 +131,18 @@ Explain the different types of maintenance activities:
 3. Prefective Maintenance:-It focuses onimproving the functionality,perfomance of the software to enhance its value to users.
 4. Preventive Maintenance:-It involves proactively identifying and adressing potential issuesin the softwarebefore they cause problems.
 
+Why is maintenance an essential part of the software lifecycle?
+-It ensures that the software remains functional,secure and upto date over time.
+
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Submission Guidelines:
+
+What are some ethical issues that software engineers might face?:Submission Guidelines:
+-Privancy Concerns:-Ensuring privancy is maintained and protected.
+-Security:-Bullding secure systems to prevent unauthorized access and threats.
+-Bias and Fairness;-Ensuring that algolithms and systems are not biased against certain group of people.
+-Transparency:-Being transparent about how software functions and its potential impact on users and society.
+-Accountability:-Taking responsibility for the consequences of software failures and mitigation potential harm.
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
