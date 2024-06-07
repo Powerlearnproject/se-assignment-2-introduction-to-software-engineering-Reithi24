@@ -55,11 +55,25 @@ WATERFALL MODEL:It is Non iteractive and its best on short term approach.it foll
 
  What are the key differences, and in what scenarios might each be preferred?
 AGILE MODEL
-1. 
+1. It emphasizes iterative and incremental with shorter development cycles.
+2. Allows for flexibility and adaptation to changing requirements throughout the project.
+3. Priotizes customer collaboration and feedback.
+4. Suited for projects where requirement may involve and where rapid delivery is valued.
+   WATERFALL MODEL
+1. follows a sequential,linear approach.
+2. Empasizes extensive upfront planning and documentation.
+3. Changes are difficult to imprelement once a phase is completed.
+4. Suited for projects with well defined requirements and stable environments.
+   
+ in what scenarios might each be preferred?
+  WATERFALL MODEL
+1.The project has a fixed budget, timeline and scope.
+2. Requirement well
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
+What is requirements engineering?
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
