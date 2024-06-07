@@ -143,6 +143,7 @@ What are some ethical issues that software engineers might face?:Submission Guid
 -Bias and Fairness;-Ensuring that algolithms and systems are not biased against certain group of people.
 -Transparency:-Being transparent about how software functions and its potential impact on users and society.
 -Accountability:-Taking responsibility for the consequences of software failures and mitigation potential harm.
+
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
