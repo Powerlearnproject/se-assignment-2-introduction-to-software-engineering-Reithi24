@@ -14,6 +14,7 @@ What is software engineering, and how does it differ from traditional programmin
 Definition:Its a collaborationamong multidisplinary teams in order to deliver successful software projects on time and within budget.
           They includes,Software engineers,Designers,Testers,Project Managers and Stakeholders.
 
+How does it differ from traditional programming?
 TRADITIONAL SOFTWARE DEVELOPMENT
 1. Its is used to develop simple software
 2. In this methodology, testing is done once the development phase is completed
@@ -21,7 +22,8 @@ TRADITIONAL SOFTWARE DEVELOPMENT
 4. It provide less security.
 5. Client involvement is less as compared to Agile Development.
 6. It provide less functionality in the software.
-   AGILE SOFTWARE DEVELOPMENT
+
+AGILE SOFTWARE DEVELOPMENT
 1. It is used to develop complicatated software.
 2. In this methodology,testing and development processes are performed concurrently.
 3. It follows an iterative organizational structure.
@@ -70,7 +72,7 @@ AGILE MODEL
 3. Changes are difficult to imprelement once a phase is completed.
 4. Suited for projects with well defined requirements and stable environments.
    
- in what scenarios might each be preferred?
+ In what scenarios might each be preferred?
   WATERFALL MODEL
 Regulated Industries.
 1. industries like finance and healthcare which has a strict regulatory compliance requirements.
@@ -99,7 +101,8 @@ Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
-What are version control systems(VCS):
+ 
+ What are version control systems(VCS):
 -They are software tools that track changes to files and directories over time.
 
 why are they important in software development?
@@ -107,15 +110,26 @@ why are they important in software development?
 -They track changes made to files and directories over time.
 -They serve as a backup mechanism.
 -They encourage best practices in software development.
+
 Examples of popular version control systems and their features.
 -GIT:Its known for its speed,efficiency and powerful branching and merging capabilities.
 -MERCURIAL:It has distributed repositories,branching,merging and lightweigt branching.
 -SUBVERSION:Its a centralized version control system,its futures such as atomic commits,branching,tagging and merging.
+
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 Ethical Considerations in Software Engineering:
+
+Define software maintenance:
+-it refers to the process of modifying ,updating and enhancing existing software systems.
+
+Explain the different types of maintenance activities:
+1. Corrective Maintenance(bud fixing)-it involves identifying ,analyzing and resolving defects in the software that are discovered after deployment.
+2. Adaptive Maintenance:-It involves making changes to the software to accomadate changes in the environment.
+3. Prefective Maintenance:-It focuses onimproving the functionality,perfomance of the software to enhance its value to users.
+4. Preventive Maintenance:-It involves proactively identifying and adressing potential issuesin the softwarebefore they cause problems.
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Submission Guidelines:
