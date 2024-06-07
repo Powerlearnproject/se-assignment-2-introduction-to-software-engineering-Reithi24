@@ -9,6 +9,21 @@ Questions:
 Define Software Engineering:It is a displine that involves the application of engineering principles and practices to the design ,development,maintenance,testing and evaluation of software system.
 
 What is software engineering, and how does it differ from traditional programming?
+TRADITIONAL SOFTWARE DEVELOPMENT
+1. Its is used to develop simple software
+2. In this methodology, testing is done once the development phase is completed
+3. It follows a linear organizational expected structure.
+4. It provide less security.
+5. Client involvement is less as compared to Agile Development.
+6. It provide less functionality in the software.
+   AGILE SOFTWARE DEVELOPMENT
+1. It is used to develop complicatated software.
+2. In this methodology,testing and development processes are performed concurrently.
+3. It follows an iterative organizational structure.
+4. It provide high security.
+5. Client involvement is high as compared to traditional software development.
+6. It provides all the functionality needed by the users.
+   
 Software Development Life Cycle (SDLC):1. Gathering Requirements
                                        2. Design Stage
                                        3. Implementation Stage
@@ -30,9 +45,17 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
    This is the stage when the software is released for customer to use.The users are provided with training or documentation to help them operate the software.
 6. Maintenance Stage
    This is where the software is updated regularly.
-Agile vs. Waterfall Models:
-
+   
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+   
+   Compare and contrast the Agile and Waterfall models of software development
+Agile vs. Waterfall Models:
+AGILE MODEL:It is iterative and incremental,it focus on long term approach.
+WATERFALL MODEL:It is Non iteractive and its best on short term approach.it follows downward.
+
+ What are the key differences, and in what scenarios might each be preferred?
+AGILE MODEL
+1. 
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
