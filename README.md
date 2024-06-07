@@ -86,12 +86,18 @@ Regulated Industries.
    -Agile is well suited for managing digital marketing campaigns,
     where strategies may need to be adjusted frequently based on real time data and market trends to optimize.
    
-   
-Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
-What is requirements engineering?
+What are requirements for software engineering?
+-Programming skills:-profiency in programming languages.
+-Software development lifecycle:-understanding of software development methodologies.
+-Problem solving skills:-ability to analyze complex problems.
+-Algorithm and data structures:-strong understanding of algorithms and data strucure.
+-Database Management:-knowledge of database management systems such as SQL,NOSQL
+
+Describe the process and its importance in the software development lifecycle.
+Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
@@ -160,6 +166,7 @@ What are some ethical issues that software engineers might face?:Submission Guid
 -Bias and Fairness;-Ensuring that algolithms and systems are not biased against certain group of people.
 -Transparency:-Being transparent about how software functions and its potential impact on users and society.
 -Accountability:-Taking responsibility for the consequences of software failures and mitigation potential harm.
+-Informed Consent:-Obtain informed consent from users when collecting personal data.
 
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
