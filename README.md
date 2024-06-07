@@ -1,17 +1,35 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15217642&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
-Assignment: Introduction to Software Engineering
+Assignment: Introduction to Software Engineering 
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:It is a displine that involves the application of engineering principles and practices to the design ,development,maintenance,testing and evaluation of software system.
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC):1. Gathering Requirements
+                                       2. Design Stage
+                                       3. Implementation Stage
+                                       4. Testing Stage
+                                       5. Deployment Stage
+                                       6. Maintenance Stage
+                                        
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+1. Gathering Requirements
+   It involves gathering and documenting usersneeds and systems requirements.
+2. Design Stage
+   Involves defings data models,systems interfaces and designing users interfaces.
+3. Implementation and coding Stage
+   This is the stage where developers begin building and coding the software.
+4. Testing Stage
+    This stage ensures the software functions correctly and meets users requirements.
+5. Deployment Stage
+   This is the stage when the software is released for customer to use.The users are provided with training or documentation to help them operate the software.
+6. Maintenance Stage
+   This is where the software is updated regularly.
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
