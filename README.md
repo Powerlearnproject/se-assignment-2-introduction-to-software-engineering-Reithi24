@@ -6,9 +6,14 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:It is a displine that involves the application of engineering principles and practices to the design ,development,maintenance,testing and evaluation of software system.
+Define Software Engineering:
+It is a displine that involves the application of engineering principles and practices to the design ,
+development,maintenance,testing and evaluation of software system.
 
 What is software engineering, and how does it differ from traditional programming?
+Definition:Its a collaborationamong multidisplinary teams in order to deliver successful software projects on time and within budget.
+          They includes,Software engineers,Designers,Testers,Project Managers and Stakeholders.
+
 TRADITIONAL SOFTWARE DEVELOPMENT
 1. Its is used to develop simple software
 2. In this methodology, testing is done once the development phase is completed
@@ -51,7 +56,7 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 Compare and contrast the Agile and Waterfall models of software development
 Agile vs. Waterfall Models:
 AGILE MODEL:It is iterative and incremental,it focus on long term approach.
-WATERFALL MODEL:It is Non iteractive and its best on short term approach.it follows downward.
+WATERFALL MODEL:It is Non iteractive and its best on short term approach.it flows downward.
 
  What are the key differences, and in what scenarios might each be preferred?
 AGILE MODEL
