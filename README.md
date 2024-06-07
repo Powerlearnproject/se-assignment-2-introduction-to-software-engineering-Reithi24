@@ -99,7 +99,18 @@ Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
+What are version control systems(VCS):
+-They are software tools that track changes to files and directories over time.
 
+why are they important in software development?
+-They enable multiple development to work on the same project simultaneously and enable coordination among team members.
+-They track changes made to files and directories over time.
+-They serve as a backup mechanism.
+-They encourage best practices in software development.
+Examples of popular version control systems and their features.
+-GIT:Its known for its speed,efficiency and powerful branching and merging capabilities.
+-MERCURIAL:It has distributed repositories,branching,merging and lightweigt branching.
+-SUBVERSION:Its a centralized version control system,its futures such as atomic commits,branching,tagging and merging.
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Software Maintenance:
 
