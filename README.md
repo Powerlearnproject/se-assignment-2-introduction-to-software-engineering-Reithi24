@@ -124,7 +124,11 @@ Explain the concept of modularity in software design. How does it improve mainta
 Testing in Software Engineering:
 
 Explain the concept of modularity in software design
+-It refers to practice of breaking down a software system into smaller,independent and interchangeable components.
 
+How does it improve maintainability and scalability of software systems?
+-It promotes both by isolating changes ,facilitating code reusability ,supporting parallel development and 
+ enhancing the overall comprehensibility of the software.
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
 1. Unit testing-This is level involves testing individual units of code in isolation to ensure they perform as expected.
