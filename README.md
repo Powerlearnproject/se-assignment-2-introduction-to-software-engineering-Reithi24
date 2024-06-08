@@ -12,7 +12,7 @@ development,maintenance,testing and evaluation of software system.
 
 What is software engineering, and how does it differ from traditional programming?
 Definition:Its a collaborationamong multidisplinary teams in order to deliver successful software projects on time and within budget.
-          They includes,Software engineers,Designers,Testers,Project Managers and Stakeholders.
+           They includes,Software engineers,Designers,Testers,Project Managers and Stakeholders.
 
 How does it differ from traditional programming?
 TRADITIONAL SOFTWARE DEVELOPMENT
@@ -129,8 +129,10 @@ Explain the concept of modularity in software design
 How does it improve maintainability and scalability of software systems?
 -It promotes both by isolating changes ,facilitating code reusability ,supporting parallel development and 
  enhancing the overall comprehensibility of the software.
+
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
+
 1. Unit testing-This is level involves testing individual units of code in isolation to ensure they perform as expected.
 2. Integration testing-it checks the interation between different modules of the software.
 3. System testing-It evaluates the behavior of the entire system as a whole.
@@ -217,8 +219,11 @@ Submission Guidelines:
 
 References of the above answers
 1. class notes
-2. searching online materials
+2. online materials
 3. life experience
+4. journals
+5. libraries
+6. documentaries
    
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
