@@ -87,7 +87,7 @@ Regulated Industries.
     where strategies may need to be adjusted frequently based on real time data and market trends to optimize.
    
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+What are requirements for software engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
 What are requirements for software engineering?
 -Programming skills:-profiency in programming languages.
@@ -97,8 +97,31 @@ What are requirements for software engineering?
 -Database Management:-knowledge of database management systems such as SQL,NOSQL
 
 Describe the process and its importance in the software development lifecycle.
-Software Design Principles:
+1. Initiation process-it involves defining projects goals and objectives.
+2. Planning process-It defines scope,schedule and budget.
+3. Execution process-It assigns tasks to team members and implements projects plans.
+4. Monitoring and controlling process-It involves tracking projects progress,perform quality control and manage changes to scope,schedule and costs.
+5. Closure process-Involves finalizing all projects activities,Documentations,release projects resources and obtain formal acceptance of deliverables.
 
+Its importance in the software development lifecycle.
+1. It is more efficient and ensures resources are utilized effectively.
+2. It enforces standards and best practices leading to higher quality software through systematic testing and quality control measures.
+3. It ensures consistency in development practices across teams and projects.
+4. It ensures effective communications among team members and stakeholders.
+5. It promtes documentation of projects requirements aiding in knowledge transfer and future maintenance.
+6. It enables to meet customers expections leading to higher satisfactio.
+7. It helps to identify and mitigates risks in advance reducing likehood of project failure.
+
+Software Design Principles:
+1. Single Responsibility principle(SRP)-A class should have only one reason to change
+2. Open/Closed principle(OCP)-Software entities should be open for extension but closed for modification.
+3. Interface Segregation Principle(ISP)-Clients should not be forced to depend on interfaces they do not use..
+4. Liskov Substitution Principle(LSP)-Objects of a superclass should be repplaceable with objects of
+   its subclasses without affecting the correctness of the program.
+5. Dont Repeat Yourself(DRY)-Every piece of knowledge should have a single representation
+  within a system to avoid redundancy and promote maintainability.
+6. Keep It Simple,Stupid(KISS)-Systems should be kept as simple as possible to achieve their objectives.
+   
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 
@@ -168,6 +191,19 @@ What are some ethical issues that software engineers might face?:Submission Guid
 -Accountability:-Taking responsibility for the consequences of software failures and mitigation potential harm.
 -Informed Consent:-Obtain informed consent from users when collecting personal data.
 
+Submission Guidelines:
+1. Understanding ethical guidelines,familiarize with professional code of ethics.
+2. Ethical decisions making,they should think critically about the potential impact of their work on individual and societies.
+3. Engage with colleagues to discuss ethical consideration and seek diverse perspectives on complex issues.
+4. Transparency,they should communicates openly about potential ethical dilemmas and work towards transparent solutions.
+5. Advocacy,they should advocate for ethical practices within their organizations.
+6. Continous education,they should stay updated on emerging issues and discussions within the field.
+
+References of the above answers
+1. class notes
+2. searching online materials
+3. life experience
+   
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
